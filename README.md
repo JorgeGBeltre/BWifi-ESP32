@@ -1010,5 +1010,3 @@ This project is developed independently. Even a small contribution helps dedicat
          height="60">
   </a>
 </p>
-#   B W i f i - E S P 3 2  
- 
