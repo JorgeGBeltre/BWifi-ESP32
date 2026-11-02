@@ -1,0 +1,16 @@
+{
+  "name": "BWifi v3.3",
+  "version": "3.3",
+  "home_page": "",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "full_bw_v3.3.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
